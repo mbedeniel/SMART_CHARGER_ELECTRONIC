@@ -16,6 +16,12 @@ Le projet comprend plusieurs fichiers, notamment :
 - **Schémas électroniques** (.pdsprj) 🎛
 - **Code source Arduino** (.ino) 💻
 - **Documentation détaillée** 📖
+- **Rapport du projet** (`rapport_smart_charger.pdf` et `rapport_smart_charger.docx`) 📝
+- **Présentation PowerPoint** (`powerpoint_projet.pptx`) 📊
+Le projet comprend plusieurs fichiers, notamment :
+- **Schémas électroniques** (.pdsprj) 🎛
+- **Code source Arduino** (.ino) 💻
+- **Documentation détaillée** 📖
 
 ## 🖥 Exécution des fichiers Proteus (.pdsprj)
 Les fichiers `.pdsprj` inclus dans ce projet sont **exécutables avec le logiciel Proteus**. Voici la procédure pour les ouvrir et les simuler :
